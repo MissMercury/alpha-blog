@@ -2,4 +2,4 @@
 
 ALPHA-BLOG
 
-DRY-code
+https://alpha-blog-6-udemy.herokuapp.com/
