@@ -1,3 +1,5 @@
 # README
 
 ALPHA-BLOG
+
+DRY-code
